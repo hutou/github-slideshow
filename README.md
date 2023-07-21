@@ -14,4 +14,4 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 ![z4](https://github.com/hutou/github-slideshow/assets/5678331/882ecdd1-6c58-4b94-bb05-843b6774efc3)
 
-![z4](https://github.com/hutou/github-slideshow/assets/5678331/4359f6a9-b187-4db9-b06c-78287c3a4389)
+![z4](https://github.com/hutou/github-slideshow/assets/5678331/568f70b5-a49e-42ce-b4b4-3778b7378849)
