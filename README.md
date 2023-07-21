@@ -12,6 +12,4 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-![z4](https://github.com/hutou/github-slideshow/assets/5678331/882ecdd1-6c58-4b94-bb05-843b6774efc3)
-
 ![z4](https://github.com/hutou/github-slideshow/assets/5678331/568f70b5-a49e-42ce-b4b4-3778b7378849)
